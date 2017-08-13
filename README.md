@@ -1,6 +1,6 @@
 # ChromecastManager
 
-![Dashboard Example](https://github.com/netzulo/chromecast-manager/src/assets/img/example-dashboard.jpg)
+![Dashboard Example](https://raw.githubusercontent.com/netzulo/chromecast-manager/master/src/assets/img/example-dashboard.jpg)
 
 ---
 
