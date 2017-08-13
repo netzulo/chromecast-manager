@@ -1,0 +1,12 @@
+﻿header, section , footer {}
+header {}
+section {}
+footer {}
+
+/**MAIN_MENU*/
+.glyphicon.glyphicon-chromecast {
+  background-image: url(/assets/img/google-cast-logo.png);
+  background-size: cover;
+  min-height: 16px;
+  min-width: 16px;
+} 
