@@ -22,6 +22,7 @@
     <Content Include=".angular-cli.json" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
+    <Content Include="src\assets\img\example-dashboard.jpg" />
     <Content Include="src\assets\img\google-cast-logo.png" />
     <Content Include="tsconfig.json" />
     <Content Include="tslint.json" />

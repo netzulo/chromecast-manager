@@ -1,6 +1,11 @@
 # ChromecastManager
 
+![Dashboard Example](https://github.com/netzulo/chromecast-manager/src/assets/img/example-dashboard.jpg)
+
+---
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+
 
 ## Development server
 
